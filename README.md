@@ -4,7 +4,7 @@ An app that let’s the user explore both local and global climate organizations
 
 ![ecoconect](https://github.com/majid0334/KodKampus_2.0/assets/113986626/b7633676-7e3d-4685-a680-dbfc045d24d2)
 
-[Skärmbild (41)](https://github.com/majid0334/KodKampus_2.0/assets/113986626/410958bd-b766-4dca-aa86-4cd58ed8f646)
+![Skärmbild (41)](https://github.com/majid0334/KodKampus_2.0/assets/113986626/410958bd-b766-4dca-aa86-4cd58ed8f646)
 
 ![Skärmbild (38)](https://github.com/majid0334/KodKampus_2.0/assets/113986626/5d19888e-3828-478b-b0c9-dc4b8e5ecd6c)
 
